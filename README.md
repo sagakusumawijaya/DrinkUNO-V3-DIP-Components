@@ -1,4 +1,4 @@
-# DrinkUno V3 with DIP Components
+# DrinkUNO V3 with DIP Components
 Arduino UNO Compatible with DIP Components
 
 ## PCB Top Side
