@@ -1,4 +1,4 @@
-# DrinkUNO V3.1 with DIP Components
+# DrinkUNO V3.1 with TH Components
 Arduino UNO Compatible with DIP Components
 
 ## PCB Top Side
