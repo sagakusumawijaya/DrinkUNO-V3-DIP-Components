@@ -2,10 +2,13 @@
 Arduino UNO Compatible with DIP Components
 
 ## PCB Top Side
-![](PCB%20Top%20Side.JPG)
+![](Top%20Side%20PCB.JPG)
 
 ## PCB Bottom Side
-![](PCB%20Bottom%20Side.JPG)
+![](Bottom%20Side%20PCB.JPG)
+
+## PCB 3D
+![](3D%20PCB.JPG)
 
 ## Schematic
-![](Schematic_DrinkUNO%20V3%20CH340G%20DIP%20Component_2020-05-06_01-25-05.png)
+![](Schematic_DrinkUNO%20V3.1%20CH340G%20(TH%20Component)_2020-07-17_00-36-41.png)
